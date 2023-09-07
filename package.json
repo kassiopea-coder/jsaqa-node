@@ -1,0 +1,26 @@
+{
+  "name": "jsaqanode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kassiopea-coder/jsaqa-node.git"
+  },
+  "author": "Nadezhda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kassiopea-coder/jsaqa-node/issues"
+  },
+  "devDependencies": {
+    "eslint": "^8.48.0",
+    "eslint-plugin-react": "^7.33.2",
+    "prettier": "^2.8.8"
+  },
+  "homepage": "https://github.com/kassiopea-coder/jsaqa-node#readme",
+  "description": ""
+}
